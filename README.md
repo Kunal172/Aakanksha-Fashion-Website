@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+#  Fashion Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application for purchasing things like fashion wear, beauty things and handicrafts. This web application was created during my internship at Aaakansha. 
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Users can see the location of beauty stores and local stores in a city. 
 
-### `npm start`
+- Users can shop for fashionable clothes and various types of signature handicrafts.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- There is a  dropdown on every store banner, after clicking on it user can see the products available.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- There is also a detail page on which the details of the product are displayed and also the review rate.
 
-### `npm test`
+- And they can login and sign-up on the web application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Users can also navigate between different pages seamlessly.
 
-### `npm run build`
+- Our web application is mobile friendly as well.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## My Work
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- I created a city fashion store page and fashion beauty page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  - There is a location dropdown in which there are various cities mentioned. 
+  
+  - There is a search bar in which user can search easily. 
 
-### `npm run eject`
+  - In this pages we have created four stores in which user can get the location of the store and also see there products on clicking the dropdown button.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- A product page for city fashion store page and fsahion beauty page.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - When a user click on any product after clicking on dropdown it will come to this page. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  - User can see all the related products which that seller sells. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- A details page for product.
 
-## Learn More
+  - I have created a details page in which user can see all the information about the product.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - User can see the ratings of that product.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  - User can add that product into the cart by clicking the add to cart button.
 
-### Code Splitting
+  - User can also add that product into the wishlist by clicking the add to wishlist button.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Technologies
 
-### Analyzing the Bundle Size
+- HTML5
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- CSS3
 
-### Making a Progressive Web App
+- NodeJS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- ReactJS
 
-### Advanced Configuration
+- Bootstrap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Typescript
 
-### Deployment
+## Navigation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### It will navigate the user to the Home page.
+http://localhost:3000/ or http://localhost:3000/home
 
-### `npm run build` fails to minify
+#### It will navigate the user to the Fashion Wear page.
+http://localhost:3000/fashion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### It will navigate the user to the City Local page.
+http://localhost:3000/local
+
+#### It will navigate the user to the City Beauty page.
+http://localhost:3000/beauty
+
+#### It will navigate the user to the Handicrafts page.
+http://localhost:3000/handicraft
+
+### Usage
+
+```
+# It will install all the required directories.
+npm install
+
+# It will start the website at http://localhost:3000.
+npm start
+
+```
