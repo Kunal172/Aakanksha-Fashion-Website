@@ -1,0 +1,231 @@
+
+.close{
+  position: absolute;
+  top:2px;
+  right:2px;
+  text-decoration: none;
+}
+
+
+
+.ip{
+  display: block;
+  padding: 10px;
+  margin:10px auto;
+  border-radius: 20px;
+  border:1px solid white;
+  width: 75%;
+  outline: none;
+  transition: 1.5s;
+}
+.ip:hover{width: 100%;}
+.signup{
+  position:absolute;
+  right:20px;
+  top: 25px;
+  text-shadow: 0 2px 5px white;
+  z-index: 1;
+  background: inherit;
+  color: white !important;
+  margin-left: 2px;
+}
+.login{
+  position:absolute;
+  right:80px;
+  top: 25px;
+  text-shadow: 0 2px 5px white;
+  z-index: 1;
+  background: inherit;
+  color: white !important;
+  margin-right: 20px;
+
+}
+.button-view{
+  margin-left: 60%;
+}
+
+/* <!----------------------------Fashion Store CSS Start----------------------------!> */
+/* Fashion Store Location Navbar Start */
+.navbar-location
+{
+    padding-left: 24em;
+    margin-bottom: 1em;
+}
+
+.location
+{
+    margin-top: -2px;
+}
+
+.location-btn
+{
+  background-color: #D82578;
+}
+
+.input
+{
+    height:3.4em;
+    width: 23em;
+    margin: 1em;
+}
+
+.search
+{
+    margin-top: -3px;
+}
+
+@media (max-width:700px) {
+  .navbar-location
+  {
+    margin-left: -23em;
+  }
+
+  .input
+  {
+    width: 17em;
+    margin-left: 0;
+  }
+  .search-btn
+  {
+    width: 1em;
+    height: 3.4em;
+  }
+  .search
+  {
+    margin-left: -8px;
+  }
+}
+
+/* Fashion Store Navbar Location End */
+/* Fashion Store Card Start */
+.fashionstorebutton
+{
+  margin-top: -3.9em;
+}
+
+.location-btn-1, .location-btn-2, .location-btn-3,.location-btn-4
+{
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: bold;
+  height: 37px;
+  width: 13em;
+  text-align: center;
+  padding-top: 10px;
+  text-transform: uppercase;
+}
+
+.location-btn-1,.location-btn-2,.location-btn-3, .location-btn-4
+{
+  background-color: #9cc0fa;
+}
+
+@media (max-width:700px) {
+.fashionstorebutton
+{
+  margin-left: 11em;
+  margin-bottom: 5em;
+}
+
+.location-btn-1, .location-btn-2, .location-btn-3,.location-btn-4
+{
+  width: 10em;
+  margin-left: -1em;
+}
+}
+/* Fashion Store Card End */
+/* <!----------------------------Fashion Store CSS End----------------------------!> */
+.view{
+  margin-left: 80%;
+}
+
+/* <!------------------------------Details Card Start-------------------------------!> */
+.details
+{
+  max-width: 65em;
+  margin-top: 4em;
+  margin-left: 10em;
+  height: 30em;
+}
+
+.details_image
+{
+  margin-left: 2em;
+  width: 23em;
+  height: 29em;
+  padding-top: 0.5em;
+}
+
+.details_body
+{
+  margin-left: 33em;
+  margin-top: -29em;
+  background-color: #2D2E32;
+  height: 29.9em;
+}
+
+.details-title
+{
+  color: #BB49AE;
+  padding-bottom: 6px;
+  padding-top: 20px;
+}
+
+.details-title-1
+{
+  color: #D82578;
+}
+
+.details-price
+{
+  color: red;
+  font-size: xx-large;
+  padding-top: 8px;
+}
+
+.details-button, .details-button-1
+{
+  display: flex;
+  width: 25em;
+  height: 2em;
+  justify-content: center;
+  border-style: none;
+  margin-left: 2em;
+  padding-top: 4px;
+}
+
+.details-button-1
+{
+  background-color: #D82578;
+}
+
+@media (max-width:700px) {
+  .details
+  {
+    max-width: 20em;
+    margin-left: 1.7em;
+    height: 64em;
+  }
+
+  .details_image
+  {
+    width: 18em;
+    margin-left: 1em;
+    margin-right: 1em
+  }
+
+  .details_body
+  {
+    margin-left: 0em;
+    margin-top: 3em;
+    height: 32em;
+  }
+
+  .details-button, .details-button-1
+  {
+    width: 19em;
+    margin-left: -8px;
+  }
+}
+
+/* <!------------------------------Details Card End---------------------------------!> */
