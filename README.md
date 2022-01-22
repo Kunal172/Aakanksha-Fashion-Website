@@ -2,6 +2,8 @@
 
 A web application for purchasing things like fashion wear, beauty things and handicrafts. This web application was created during my internship at Aaakansha. 
 
+Backend and some pages of frontend was craeted by the other team members of Aakansha team.
+
 ## Features
 
 - Users can see the location of beauty stores and local stores in a city. 
