@@ -65,7 +65,7 @@ Backend and some pages of frontend were created by the other team members of the
 ## Navigation
 
 #### - It will navigate the user to the Home page.
-http://localhost:3000/ or http://localhost:3000/home
+http://localhost:3000/ 
 
 #### - It will navigate the user to the City Fashion Store page.
 http://localhost:3000/fashion
