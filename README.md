@@ -2,7 +2,7 @@
 
 A web application for purchasing things like fashion wear, beauty things and handicrafts. This web application was created during my internship at Aaakansha. 
 
-Backend and some pages of frontend was craeted by the other team members of Aakansha team.
+Backend and some pages of frontend was created by the other team members of Aakansha team.
 
 ## Features
 
@@ -22,7 +22,7 @@ Backend and some pages of frontend was craeted by the other team members of Aaka
 
 ## My Work
 
-- I created a city fashion store page and fashion beauty page.
+- Created a city fashion store page and fashion beauty page.
 
   - There is a location dropdown in which there are various cities mentioned. 
   
@@ -62,22 +62,19 @@ Backend and some pages of frontend was craeted by the other team members of Aaka
 
 ## Navigation
 
-#### It will navigate the user to the Home page.
+#### - It will navigate the user to the Home page.
 http://localhost:3000/ or http://localhost:3000/home
 
-#### It will navigate the user to the Fashion Wear page.
+#### - It will navigate the user to the City Fashion Store page.
 http://localhost:3000/fashion
 
-#### It will navigate the user to the City Local page.
-http://localhost:3000/local
-
-#### It will navigate the user to the City Beauty page.
+#### - It will navigate the user to the City Beauty Store page.
 http://localhost:3000/beauty
 
-#### It will navigate the user to the Handicrafts page.
+#### - It will navigate the user to the Handicrafts page.
 http://localhost:3000/handicraft
 
-### Usage
+## Usage
 
 ```
 # It will install all the required directories.
