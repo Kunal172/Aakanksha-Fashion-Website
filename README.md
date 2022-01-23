@@ -1,8 +1,8 @@
 #  Fashion Website
 
-A web application for purchasing things like fashion wear, beauty things and handicrafts. This web application was created during my internship at Aaakansha. 
+It is a web application for purchasing fashion wear, beauty things, and handicrafts. It was created during the internship at Aaakansha. 
 
-Backend and some pages of frontend was created by the other team members of Aakansha team.
+Backend and some pages of frontend were created by the other team members of the Aakansha team.
 
 ## Features
 
@@ -10,41 +10,43 @@ Backend and some pages of frontend was created by the other team members of Aaka
 
 - Users can shop for fashionable clothes and various types of signature handicrafts.
 
-- There is a  dropdown on every store banner, after clicking on it user can see the products available.
+- There is a  dropdown on every store banner. When the user clicks on it, they can see the products available.
 
-- There is also a detail page on which the details of the product are displayed and also the review rate.
+- There is also a detail page on which the details of the product are displayed, with the review rate.
 
-- And they can login and sign-up on the web application.
+- And they can log in and sign-up on the web application.
 
 - Users can also navigate between different pages seamlessly.
 
-- Our web application is mobile friendly as well.
+- The web application is mobile-friendly as well.
 
 ## My Work
 
-- Created a city fashion store page and fashion beauty page.
+- Created a city fashion store page and city beauty store page.
 
   - There is a location dropdown in which there are various cities mentioned. 
   
-  - There is a search bar in which user can search easily. 
+  - There is a search bar in which users can search easily. 
 
-  - In this pages we have created four stores in which user can get the location of the store and also see there products on clicking the dropdown button.
+  - We have created four stores in which users can get the location.
 
-- A product page for city fashion store page and fsahion beauty page.
+- And can see their products by clicking the dropdown button.
 
-  - When a user click on any product after clicking on dropdown it will come to this page. 
+- A product page for city fashion store page and city beauty store page.
+
+  - When a user clicks on any product after clicking on the dropdown, it will come to this page. 
 
   - User can see all the related products which that seller sells. 
 
-- A details page for product.
+- A details page for a product.
 
-  - I have created a details page in which user can see all the information about the product.
+  - I have created a details page in which users can see all the information about the product.
 
   - User can see the ratings of that product.
 
-  - User can add that product into the cart by clicking the add to cart button.
+  - User can add that product to the cart by clicking the add to cart button.
 
-  - User can also add that product into the wishlist by clicking the add to wishlist button.
+  - User can also add that product to the wishlist by clicking the add to wishlist button.
 
 ## Technologies
 
@@ -68,11 +70,35 @@ http://localhost:3000/ or http://localhost:3000/home
 #### - It will navigate the user to the City Fashion Store page.
 http://localhost:3000/fashion
 
+#### - It will navigate the user to the Men Wear page.
+http://localhost:3000/MenWear
+
+#### - It will navigate the user to the Women Wear page.
+http://localhost:3000/WomenWear
+
+#### - It will navigate the user to the Kids Wear page.
+http://localhost:3000/KidsWear
+
+#### - It will navigate the user to the Party Wear page.
+http://localhost:3000/PartyWear
+
 #### - It will navigate the user to the City Beauty Store page.
 http://localhost:3000/beauty
 
-#### - It will navigate the user to the Handicrafts page.
-http://localhost:3000/handicraft
+#### - It will navigate the user to the Men Beauty Store page.
+http://localhost:3000/MenBeauty
+
+#### - It will navigate the user to the Women Beauty Store page.
+http://localhost:3000/WomenBeauty
+
+#### - It will navigate the user to the Indian Beauty Store page.
+http://localhost:3000/IndianBeauty
+
+#### - It will navigate the user to the Modern Beauty Store page.
+http://localhost:3000/MordernBeauty
+
+#### - It will navigate the user to the Details page.
+http://localhost:3000/details
 
 ## Usage
 
